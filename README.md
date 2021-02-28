@@ -109,5 +109,5 @@ License
 Download
 --------
 
-[Prepress.py 0.9.0 (130KB)](https://github.com/tobeythorn/prepress/raw/main/prepress.zip)
+[Prepress.py 0.9.0 (130KB)](https://github.com/tobeythorn/prepress_py/raw/main/prepress.zip)
 
