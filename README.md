@@ -77,7 +77,7 @@ If your site will be hosted in a sub-directory, specify the base relative to the
 Deploy your site to Github Pages
 --------------------------------
 
-Create an account on [Github github.com], if you don't have one already. Create a repository called:
+Create an account on github.com, if you don't have one already. Create a repository called:
 
 	username.github.io
 
@@ -109,5 +109,5 @@ License
 Download
 --------
 
-[Prepress.py 0.9.0 (130KB)](https://github.com/tobeythorn/prepress_py/raw/main/prepress.zip)
+[Prepress.py 0.9.0 (130KB)](https://github.com/tobeythorn/prepress.py/raw/main/prepress.zip)
 
